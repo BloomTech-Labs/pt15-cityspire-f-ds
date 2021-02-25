@@ -1,4 +1,5 @@
-## Data Science team project CitySpire 
+## Data Science team project CitySpire
+API link: [cityspire-f-ds](http://cityspire-f-ds.us-east-1.elasticbeanstalk.com/)
 #### Data Scientists: 
 
 - [Maxim371](https://github.com/maxim371)
