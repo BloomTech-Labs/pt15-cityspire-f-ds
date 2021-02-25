@@ -19,6 +19,6 @@
 
 **/predict**                 (Fetches all data (rental price, walkability, crime rate, population) per city/state and combines it in one endpoint)  
 
-**/rent_linear_prediction ** (Forecast apartment rent for 3, 6, 12 months This is just Linear model. It won't show great forecast accuracy Created to determine base line and for test purposes)
+**/rent_linear_prediction** (Forecast apartment rent for 3, 6, 12 months This is just Linear model. It won't show great forecast accuracy Created to determine base line and for test purposes)
 
-**/visualize-price **        (Visualize Rental Price Historical and Forecast date per City/State)
+**/visualize-price**        (Visualize Rental Price Historical and Forecast date per City/State)
