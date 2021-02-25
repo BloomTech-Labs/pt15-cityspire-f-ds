@@ -1,4 +1,4 @@
-## Data Science team project from Lambda Labs 
+## Data Science team project CitySpire 
 #### Data Scientists: 
 
 - [Maxim371](https://github.com/maxim371)
